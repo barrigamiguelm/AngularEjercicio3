@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+  gap: 15px;
+  margin-top: 5px;
+}
+
+.item {
+  background-color: #FF6347;
+  color: white;
+  width: 90px;
+  height: 70px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=estilos.css.map */
